@@ -1,0 +1,15 @@
+ul{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+li{
+    width: 80px;
+    height: 80px;
+    margin: 5px; 
+    text-align: center;
+    font-size: 50pt;
+    background-color: rgb(170, 220, 230);
+    list-style: none; /*to remove the dots of the list*/
+}
